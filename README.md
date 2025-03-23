@@ -28,7 +28,7 @@ I also use tools such as **Git**, **PostgreSQL**, **MongoDB**, **MySQL**, and **
 ## 📫 Reach Me 
 [![Email Icon](https://img.icons8.com/ios/30/ffffff/gmail-new.png)](mailto:arundharmar436@gmail.com) 
 [![LinkedIn Icon](https://img.icons8.com/ios/30/ffffff/linkedin.png)](https://www.linkedin.com/in/arunkumar-d-578647256) 
-[![Instagram Icon](https://img.icons8.com/ios/30/ffffff/instagram-new.png)](https://www.instagram.com/your_username)
+[![Instagram Icon](https://img.icons8.com/ios/30/ffffff/instagram-new.png)](https://www.instagram.com/spidey.arun)
 
 ---
 
